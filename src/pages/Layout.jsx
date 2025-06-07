@@ -1,6 +1,6 @@
 
 import React from 'react';
-import TopNavbar from './components/layout/TopNavbar'; 
+import TopNavbar from '../components/layout/TopNavbar';
 
 export default function Layout({ children, currentPageName }) {
   return (
